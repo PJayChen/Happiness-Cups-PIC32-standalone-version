@@ -4,7 +4,10 @@
 
 Usage
 -------
-* Must place this project in the following path
+* This project is based on [MPLAB® Harmony Integrated Software Framework](http://www.microchip.com/mplab/mplab-harmony)
+  * Download and intall it
+
+* After that, place this project in the Harmony intalled location
 ``` 
 harmony_library_directory/version/apps/bluetooth/data/project_name/
 ```
